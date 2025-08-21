@@ -9,8 +9,7 @@ Me chamo Pedro José Florindo, tenho 21 anos e sou natural de São Paulo. Atualm
         <img 
             alt="gmail" 
             title="Gmail" 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         /> 
     <a href="https://www.linkedin.com/in/pedro-jose-florindo/">
         <img 
@@ -109,7 +108,7 @@ Me chamo Pedro José Florindo, tenho 21 anos e sou natural de São Paulo. Atualm
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Silverbacky&show_icons=true&theme=dark&count_private=true&custom_title=Estatísticas do GitHub")" 
+    src="https://github-readme-stats.vercel.app/api?username=Silverbacky&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
